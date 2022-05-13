@@ -1,10 +1,10 @@
-# dicee_flutter
+# dicee_flutter_game
 
-A new Flutter project.
+A new Flutter3.0 project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is my first game created using flutter. I used material 3 introduced with Flutter 3.0!
 
 A few resources to get you started if this is your first Flutter project:
 
